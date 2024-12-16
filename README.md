@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohank-io&label=Profile%20views&color=0e75b6&style=flat" alt="rohank-io" /> </p>
 
-- 🌱 I’m currently learning **Android , AI**
+- 🌱 I am a dedicated Full-Stack developer with **1.7 years** of experience crafting robust and scalable applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohank-io](https://github.com/rohank-io)
 
-- 💬 Ask me about **Python , Java**
+- 💬 Ask me about **API , Java, Spring Boot**
 
 - 📫 How to reach me **rohanmarutikudale@gmail.com**
 
