@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python , Java**
 
-- 📫 How to reach me **rohankudale2110@gmail.com**
+- 📫 How to reach me **rohanmarutikudale@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
