@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohank-io&label=Profile%20views&color=0e75b6&style=flat" alt="rohank-io" /> </p>
 
-- 🌱 Full-Stack developer with **1.7+ years** of experience building scalable web and mobile applications for healthcare, education, and enterprise clients.
+- 🌱 Full-Stack developer with **3+ years** of experience building scalable web and mobile applications for healthcare, education, and enterprise clients.
 
 - 👨‍💻 Portfolio and open-source work at [github.com/rohank-io](https://github.com/rohank-io)
 
